@@ -108,6 +108,7 @@ venv.bak/
 large file/
 
 #.idea
+.idea
 .idea/workspace.xml 
 .DS_Store
 .idea
